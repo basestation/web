@@ -1,0 +1,44 @@
+{
+  "name": "basestation",
+  "version": "0.0.0",
+  "description": "Proximity Based Social Networking in Real-Time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basestation/web.git"
+  },
+  "keywords": [
+    "Angular",
+    "Community",
+    "Firebase",
+    "Geolocation",
+    "Network",
+    "Proximity",
+    "RealTime",
+    "Social"
+  ],
+  "author": "Brian Hooper (noogageek@gmail.com)",
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/basestation/web/issues"
+  },
+  "homepage": "https://github.com/basestation/web",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-contrib-csslint": "^0.4.0",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-imagemin": "^0.9.3",
+    "grunt-contrib-jasmine": "^0.8.2",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
